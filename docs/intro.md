@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Netlify autoupdate
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Try to change something in README and **Netlify will deploy it in less than 5 minutes**.
 
 ## Getting Started
 
