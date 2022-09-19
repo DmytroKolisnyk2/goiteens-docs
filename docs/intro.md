@@ -8,7 +8,7 @@ Try to change something in README and **Netlify will deploy it in less than 5 mi
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **changing README**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
